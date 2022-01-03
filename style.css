@@ -1,0 +1,26 @@
+#row1, #row2, #row3{
+	display:flex;
+}
+li{
+	font-size:300%;
+}
+h5{
+	font-size:60%;
+}
+h4{
+	font-size:100%;
+}
+
+img{
+	width:40%;
+}
+body{
+	font-family: 'Poppins', sans-serif;
+}
+#row2{
+	background-color:#dadada;
+}
+#row3{
+	background-color:#cdcdcd;
+	height:100%;
+}
